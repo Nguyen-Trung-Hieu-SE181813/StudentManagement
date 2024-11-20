@@ -10,6 +10,9 @@ The **Student Management Web Application** is a platform for managing student in
 - **User Roles**: Full access to all features including managing student records.
 - **Responsive Design**: Fully responsive design to ensure usability on mobile, tablet, and desktop devices.
 
+## Screenshots
+![image](https://github.com/user-attachments/assets/ec36850e-26a6-4336-a14d-1574130c8868)
+
 ## Tech Stack
 
 - **Frontend**: HTML, CSS, JavaScript (React)
@@ -28,4 +31,5 @@ Before getting started, ensure you have the following tools installed:
 ### Clone the Repository
 
 ```bash
-git clone 
+git clone https://github.com/Nguyen-Trung-Hieu-SE181813/StudentManagement.git
+cd StudentManagement.git
